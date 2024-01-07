@@ -1,3 +1,3 @@
 setTimeout(function(){
-    window.location.href = 'https://www.youtube.com';
+    window.location.href = '../pagina_2/css/estilos.css';
  }, 2000);
